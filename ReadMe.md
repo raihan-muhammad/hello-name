@@ -14,7 +14,7 @@ yarn add -D @raihanmuhammad/hello-name
 ### How to use
 
 ```
-import { sayHi } from '@raihanmuhammad/hello-name';
+import sayHi from '@raihanmuhammad/hello-name';
 
 const name = sayHi("raihan");
 // console.log(name);
