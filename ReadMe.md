@@ -6,9 +6,9 @@ It's just simple package for print say hi
 ```
 npm install --save-dev @raihanmuhammad/hello-name
 ```
-if you using yarn @raihanmuhammad/hello-name
+if you are using yarn 
 ```
-yarn add -D 
+yarn add -D @raihanmuhammad/hello-name
 ```
 
 ### How to use
