@@ -1,6 +1,6 @@
 {
   "name": "@raihanmuhammad/hello-name",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "type": "module",
   "description": "a simple package for print say hi!",
   "main": "index.js",
