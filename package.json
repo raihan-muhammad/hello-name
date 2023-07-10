@@ -1,0 +1,23 @@
+{
+  "name": "@raihanmuhammad/hello-name",
+  "version": "1.0.0",
+  "description": "a simple package for print say hi!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raihan-muhammad/hello-name.git"
+  },
+  "keywords": [
+    "hello",
+    "name"
+  ],
+  "author": "raihan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raihan-muhammad/hello-name/issues"
+  },
+  "homepage": "https://github.com/raihan-muhammad/hello-name#readme"
+}
